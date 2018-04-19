@@ -19,8 +19,7 @@ I dreamed that these and love and death were **one**,
         One with the rest, - 
     One with the mounting day, the east and west - 
         Lord, is it true?
-    Lord, do I **dream**? 
-    Methinks a key unlocks
+    Lord, do I **dream**? Methinks a key unlocks
     Some dungeon door, in thrall of blackened towers,
     On ecstasies, half hid, like chill white flowers
     Blown in the secret places of the rocks.
