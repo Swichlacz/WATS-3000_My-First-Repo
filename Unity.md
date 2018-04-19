@@ -1,7 +1,8 @@
  #Unity
- by Violet Jacob
- 
- I dreamed that life and time and space were one,
+ ##by Violet Jacob
+
+
+###I dreamed that **life** and **time** and **space** were *one*,
         And the pure trance of dawn;
         The increase drawn
     From all the journeys of the travelling sun,
@@ -10,7 +11,7 @@
     And far, calm waters set in lonely plains,
         And cry of birds at night.
 
-    I dreamed that these and love and death were one,
+###I dreamed that these and love and death were one,
         And all eternity,
         The life to be
     Therewith entwined, throughout the ages spun;
@@ -18,7 +19,8 @@
         One with the rest, - 
     One with the mounting day, the east and west - 
         Lord, is it true?
-    Lord, do I dream? Methinks a key unlocks
-    Some dungeon door, in thrall of blackened towers,
-    On ecstasies, half hid, like chill white flowers
-    Blown in the secret places of the rocks.
+    Lord, do I **dream?** 
+    1. Methinks a key unlocks
+    2. Some dungeon door, in thrall of blackened towers,
+    3. On ecstasies, half hid, like chill white flowers
+    4. Blown in the secret places of the rocks.
