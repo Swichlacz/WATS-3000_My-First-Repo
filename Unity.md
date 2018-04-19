@@ -11,8 +11,8 @@ I dreamed that **life** and **time** and **space** were *one*,
     And far, calm waters set in lonely plains,
         And cry of birds at night.
         
-I dreamed that these and love and death were one,
-        And all *eternity*,
+I dreamed that these and love and death were **one**,
+        And all eternity,
         The life to be
     Therewith entwined, throughout the ages spun;
     And so with **Grief**, my playmate; him I knew
