@@ -1,2 +1,2 @@
 # WATS-3000_My-First-Repo
-Creating a repository on Github and making some edits using a Poem obtained on Public Domain Poetry.
+This assignment is built around creating your first repository on Github and making some edits, using a Poem obtained on Public Domain Poetry.
