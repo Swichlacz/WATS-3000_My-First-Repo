@@ -2,7 +2,7 @@
  ## by Violet Jacob
 
 
-### I dreamed that **life** and **time** and **space** were *one*,
+I dreamed that **life** and **time** and **space** were *one*,
         And the pure trance of dawn;
         The increase drawn
     From all the journeys of the travelling sun,
@@ -10,8 +10,7 @@
         The whispering rains,
     And far, calm waters set in lonely plains,
         And cry of birds at night.
-
-### I dreamed that these and love and death were one,
+I dreamed that these and love and death were one,
         And all eternity,
         The life to be
     Therewith entwined, throughout the ages spun;
