@@ -10,6 +10,7 @@ I dreamed that **life** and **time** and **space** were *one*,
         The whispering rains,
     And far, calm waters set in lonely plains,
         And cry of birds at night.
+        
 I dreamed that these and love and death were one,
         And all eternity,
         The life to be
