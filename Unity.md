@@ -12,14 +12,14 @@ I dreamed that **life** and **time** and **space** were *one*,
         And cry of birds at night.
         
 I dreamed that these and love and death were one,
-        And all eternity,
+        And all *eternity*,
         The life to be
     Therewith entwined, throughout the ages spun;
-    And so with Grief, my playmate; him I knew
+    And so with **Grief**, my playmate; him I knew
         One with the rest, - 
     One with the mounting day, the east and west - 
         Lord, is it true?
-    Lord, do I **dream?** 
+    Lord, do I **dream**? 
     1. Methinks a key unlocks
     2. Some dungeon door, in thrall of blackened towers,
     3. On ecstasies, half hid, like chill white flowers
