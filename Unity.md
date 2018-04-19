@@ -21,6 +21,6 @@ I dreamed that these and love and death were **one**,
         Lord, is it true?
     Lord, do I **dream**? 
     1. Methinks a key unlocks
-    2. Some dungeon door, in thrall of blackened towers,
-    3. On ecstasies, half hid, like chill white flowers
-    4. Blown in the secret places of the rocks.
+    1. Some dungeon door, in thrall of blackened towers,
+    1. On ecstasies, half hid, like chill white flowers
+    1. Blown in the secret places of the rocks.
