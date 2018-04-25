@@ -22,6 +22,6 @@ I dreamed that these and love and death were **one**,<br>
     Lord, do I **dream**? Methinks a key unlocks<br>
     Some dungeon door, in thrall of blackened towers,<br>
     On ecstasies, half hid, like chill white flowers<br>
-    Blown in the secret places of the rocks.<br>
+    **Blown** in the secret places of the rocks.<br>
 
 [Public Domain Poetry - Unity by Violet Jacob](http://www.public-domain-poetry.com/violet-jacob/unity-21369)
