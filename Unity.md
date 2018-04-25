@@ -23,6 +23,6 @@ I dreamed that these and love and death were **one**,<br>
     Some dungeon door, in thrall of blackened towers,<br>
     On ecstasies, half hid, like chill white flowers<br>
     **Blown** in the secret places of the rocks.<br>
-    *Life*, *time*, *space*, *love*, and *death* are **equal**.
+    **Life**, *time*, *space*, *love*, and *death* are **equal**.
 
 [Public Domain Poetry - Unity by Violet Jacob](http://www.public-domain-poetry.com/violet-jacob/unity-21369)
